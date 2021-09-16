@@ -1,0 +1,20 @@
+{
+  "files": {
+    "index.ejs": [
+      {
+        "id": "696186d4-3e62-49eb-badb-bad684610362",
+        "line": 1,
+        "version": 0,
+        "index": 0
+      }
+    ],
+    "views/noticias/vernoticias/index.ejs": [
+      {
+        "id": "071bdfcc-bd21-4f31-8120-550b8953155e",
+        "line": 14,
+        "version": 249,
+        "index": 227
+      }
+    ]
+  }
+}
